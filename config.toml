@@ -1,0 +1,4 @@
+baseURL = "https://birthdayimagest.vercel.app"
+languageCode = "en-us"
+title = "Birthday Image Banner"
+theme = "hugo-theme-minos"
